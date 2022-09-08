@@ -114,7 +114,7 @@ h1, p {
     display: grid;
     text-align: left;
     grid-template-columns: 40% 60%;
-    grid-template-rows: 25% 25% 25% 25%;
+    grid-template-rows: 22% 28% 25% 25%;
     grid-template-areas: 
     "status name"
     "img occupation"
@@ -181,4 +181,6 @@ h1, p {
     background-color: rgb(227, 227, 227);
 
   }
+
+
 }
